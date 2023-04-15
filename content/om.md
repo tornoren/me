@@ -1,7 +1,7 @@
 +++
 title = "Om"
 cover = "/img/torstein_norendal.png"
-
+description = "Beskrivelse av det bidrar med"
 +++
 
 Som løsningsarkitekt leverer jeg mest verdi når jeg utforsker det kreative og analytiske rommet, konkretiserer spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.
