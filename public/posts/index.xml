@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>This is a title on Torstein Norendal: Løsningsarkitekt</title>
-    <link>https://eloquent-liger-95916a.netlify.app/</link>
-    <description>Recent content in This is a title on Torstein Norendal: Løsningsarkitekt</description>
+    <title>Posts on Torstein Norendal: Løsningsarkitekt</title>
+    <link>https://eloquent-liger-95916a.netlify.app/posts/</link>
+    <description>Recent content in Posts on Torstein Norendal: Løsningsarkitekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2023 22:59:07 +0200</lastBuildDate><atom:link href="https://eloquent-liger-95916a.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 05:08:21 +0100</lastBuildDate><atom:link href="https://eloquent-liger-95916a.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Principles for a platform-wide analytics reporting</title>
       <link>https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/</link>
@@ -365,101 +365,6 @@ De som skåret midddels på begge faktorene oppfattet jeg som pregløse og uinte
 &lt;p&gt;Hverken svært gjennomføre eller middels innovative prosjekter har tiltrekningskraft. Det må være noe energisk i et prosjekt skal det fenge dem som skal skape resultatene. Det må være snakk om en reell innovasjon.&lt;/p&gt;
 &lt;p&gt;Peter Thiel snakker om å gå fra null til en: å lage noe som ikke finnes fra - eller å lage 10x forbedring av noe eksisterende.&lt;/p&gt;
 &lt;p&gt;Er det målet, feiler ofte innovasjon. Men den som ikke våger, vinner heller ikke.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Løsningsarkitekt</title>
-      <link>https://eloquent-liger-95916a.netlify.app/om/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eloquent-liger-95916a.netlify.app/om/</guid>
-      <description>Som løsningsarkitekt leverer jeg mest verdi når jeg utforsker det kreative og analytiske rommet, konkretiserer spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.
-Jeg tror på eierskap og autonomi. Ingenting binder team sterkere sammen enn en felles oppgave. Ved å løse vanskelige problemer sammen, går vi fra jeg til vi. Da får også fjernbingo på hjemmekontoret en verdi.
-Når jeg har det strategiske perspektivet, vekter de faglige bidragene og styrer mot produktvisjonen bidrar jeg mest.</description>
-      <content>&lt;p&gt;Som løsningsarkitekt leverer jeg mest verdi når jeg utforsker det kreative og analytiske rommet, konkretiserer spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.&lt;/p&gt;
-&lt;p&gt;Jeg tror på eierskap og autonomi. Ingenting binder team sterkere sammen enn en felles oppgave. Ved å løse vanskelige problemer sammen, går vi fra jeg til vi. Da får også fjernbingo på hjemmekontoret en verdi.&lt;/p&gt;
-&lt;p&gt;Når jeg har det strategiske perspektivet, vekter de faglige bidragene og styrer mot produktvisjonen bidrar jeg mest.&lt;/p&gt;
-
-  &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;https://eloquent-liger-95916a.netlify.app/images/torstein_norendal.png&#34;   /&gt;
-    
-  &lt;/figure&gt;
-
-
-&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;911 28 335&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;mailto:torstein.norendal@gmail.com&#34;&gt;torstein.norendal@gmail.com&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;prosjekter&#34;&gt;Prosjekter&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Migrering, redesign og nykonstruksjon av Felles nettløsning for spesialisthelsetjenesten (2022 - 2023)&lt;/strong&gt;&lt;br&gt;
-Teamledelse og løsningsarkitektur, Optimizely DXP&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Felles nettløsning for spesialisthelsetjenesten (2020 - 2023 )&lt;/strong&gt;&lt;br&gt;
-Produktansvarlig&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dyrehelsenett (2022)&lt;/strong&gt;&lt;br&gt;
-Løsningsarkitektur for en norsk kunnskapsplattform for dyrehelse&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Felles nettløsning for spesialisthelsetjenesten (2019 - 2020)&lt;/strong&gt;&lt;br&gt;
-Funksjonelt ansvarlig&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lausanne 2020: OL for ungdom (2019)&lt;/strong&gt;&lt;br&gt;
-Interaksjonsdesigner&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lærdal Medical (2018 - 2019)&lt;/strong&gt;: Redesign av prosjektapp&lt;br&gt;
-Interaksjonsdesigner og innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Direktoratet for e-helse (2019)&lt;/strong&gt;: Nye ehelse.no&lt;br&gt;
-Interaksjonsdesigner og innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;American Express (2019)&lt;/strong&gt;: Brukertest med live overføring&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sykepleien (2018)&lt;/strong&gt;: Redesign av magasinet&lt;br&gt;
-Interaksjonsdesigner og innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Veterinærinstituttet (2015 - 2018)&lt;/strong&gt;: Redesign av vetinst.no, digitalisering av tjenester&lt;br&gt;
-Interaksjonsdesigner og innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;helsenorge.no (2017)&lt;/strong&gt;: Brukerinnsikt og strategisk rådgivning&lt;br&gt;
-Interaksjonsdesigner og innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Universitetet i Oslo (2017)&lt;/strong&gt;: Tjenestedesignworkshop, onboarding av nye studenter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dagens Næringsliv (2017)&lt;/strong&gt;: Tjenestedesignworkshop, segmentert kundereise med strategi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Norway bussekspress (2017)&lt;/strong&gt;: Redesign av billettkjøp&lt;br&gt;
-Interaksjonsdesigner og innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Norsk Filminstitutt (2016)&lt;/strong&gt;: Redesign av visuell identitet og nfi.no&lt;br&gt;
-Innholdsrådgiver og Interaksjonsdesigner&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ungdoms-OL Lillehammer 2016 (2015)&lt;/strong&gt;: Redesign&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sonans (2015 - 2016 )&lt;/strong&gt;: Redesign av sonans.no&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Oslo kommune (2016)&lt;/strong&gt;: Analyse og UX-rådgivning&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Statens vegvesen (2015)&lt;/strong&gt;: Innholdsstrategi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Norwegian (2014 - 2015)&lt;/strong&gt;: Redesign norwegian.com&lt;br&gt;
-Engelsk innhold og stil og tone&lt;/p&gt;
-&lt;h2 id=&#34;arbeid&#34;&gt;Arbeid&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Athena (2019 - )&lt;/strong&gt;&lt;br&gt;
-Løsningsarkitekt&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Netlife (2015 - 2019)&lt;/strong&gt;&lt;br&gt;
-Innholdsrådgiver, interaksjonsdesigner og prosjektleder&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Innovasjon Norge (2012- 2014)&lt;/strong&gt;&lt;br&gt;
-Selvstendig innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sigarett Design (2011)&lt;/strong&gt;&lt;br&gt;
-Innholdsrådgiver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Innholdsrådgiver og oversetter (2009 - 2010)&lt;/strong&gt;&lt;br&gt;
-Tekniske tekster og journalistikk&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Webredaktør og tekstforfatter (2002)&lt;/strong&gt;&lt;br&gt;
-expert.no, panasonic.no og bestbuy.no&lt;/p&gt;
-&lt;h2 id=&#34;utdanning&#34;&gt;Utdanning&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Master i statsvitenskap, UiO (2006 - 2008)&lt;/strong&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.duo.uio.no/handle/10852/14883&#34;&gt;Oppgave&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Humboldt-Universität zu Berlin (2008)&lt;/strong&gt;&lt;br&gt;
-Tysk og amerikansk politikk&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bachelor i komparativ politikk, UiB (2003 - 2006)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aix-Marseille Université (2004)&lt;/strong&gt;&lt;br&gt;
-Fransk og økonomi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tysk for næringslivet, NHH (2003)&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;kurs&#34;&gt;Kurs&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Professional Scrum Product Owner 1 (2020)&lt;/strong&gt;&lt;br&gt;
-Scrum.org&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Prince2 (2018)&lt;/strong&gt; &lt;br&gt;
-Foundation + Practitioner&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Snomed CT Foundation (2020)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Google Analytics IQ (2016)&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ferdigheter&#34;&gt;Ferdigheter&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;tilegne seg mye informasjon på kort tid og trekke ut hovedpunkter&lt;/li&gt;
-&lt;li&gt;planlegge, konseptualisere og detaljere&lt;/li&gt;
-&lt;li&gt;koordinere og kommunisere&lt;/li&gt;
-&lt;li&gt;gjennomføre og levere&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     </item>
     
