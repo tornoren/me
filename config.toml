@@ -2,4 +2,27 @@ baseURL = 'https://eloquent-liger-95916a.netlify.app/'
 languageCode = 'en-us'
 title = 'Torstein Norendal: Løsningsarkitekt'
 theme = 'terminal'
+paginate = 3
 
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 0
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    title = "Torstein Norendal: Løsningsarkitekt"
+    subtitle = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read on"
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params.logo]
+      logoText = "Torstein Norendal: Løsningsarkitekt"
+      logoHomeLink = "/"
+
+    

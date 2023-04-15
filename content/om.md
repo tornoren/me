@@ -1,5 +1,7 @@
 +++
-title = "Løsningsarkitekt"
+title = "Om"
+cover = "/img/torstein_norendal.png"
+
 +++
 
 Som løsningsarkitekt leverer jeg mest verdi når jeg utforsker det kreative og analytiske rommet, konkretiserer spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.
@@ -8,7 +10,6 @@ Jeg tror på eierskap og autonomi. Ingenting binder team sterkere sammen enn en 
 
 Når jeg har det strategiske perspektivet, vekter de faglige bidragene og styrer mot produktvisjonen bidrar jeg mest.
 
-{{< figure src="/images/torstein_norendal.png" title=">Bilde av Torstein Norendal" >}}
 
 ## Kontakt
 <a href="tel:91128335">911 28 335</a>  
