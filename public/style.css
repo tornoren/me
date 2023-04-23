@@ -1,0 +1,19 @@
+.index-content {
+    margin-top: 400px;
+}
+
+body h1 {
+    font-size: 4.25rem;
+}
+
+html {
+    font-size: 46px;
+}
+
+.post-title a {
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}

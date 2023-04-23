@@ -1,47 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  
+    
     <title>Principles for a platform-wide analytics reporting :: Torstein Norendal: Løsningsarkitekt</title>
-  
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A platform in this context refers to a group of sites that share important characteristics.
 Important questions include:
 Who are the users? What do they need? If we have several user groups, we should prioritize and make choices. Which one is more important? And can we help all of them?
 We should also take note of their needs today as well as make projections for the future.
 Drawing on the previous post I put forward that our data should tell us our state, our direction and provide us with the ability to extract sense from vast quantity of data." />
-<meta name="keywords" content="" />
-
-  <meta name="robots" content="noodp" />
-
-<link rel="canonical" href="https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/" />
+<meta name="keywords" content="" /> 
+<meta name="robots" content="noodp" /> 
+<link rel="canonical" href="https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/" />  
 
 
 
+   
+<link rel="stylesheet" href="https://eloquent-liger-95916a.netlify.app/styles.css"> 
+
+
+<link rel="stylesheet" href="https://eloquent-liger-95916a.netlify.app/%20style.css%20">
 
 
 
-  
-  
-  
-  
-  
-  <link rel="stylesheet" href="https://eloquent-liger-95916a.netlify.app/styles.css">
+<link rel="shortcut icon" href="https://eloquent-liger-95916a.netlify.app/%20img/theme-colors/orange.png%20">
+<link rel="apple-touch-icon" href="https://eloquent-liger-95916a.netlify.app/%20img/theme-colors/orange.png%20"> 
 
 
-
-
-
-
-
-  <link rel="shortcut icon" href="https://eloquent-liger-95916a.netlify.app/img/theme-colors/orange.png">
-  <link rel="apple-touch-icon" href="https://eloquent-liger-95916a.netlify.app/img/theme-colors/orange.png">
-
-
-
-<meta name="twitter:card" content="summary" />
-
+<meta name="twitter:card" content="summary" /> 
 
 
 <meta property="og:locale" content="en" />
@@ -53,18 +41,11 @@ Who are the users? What do they need? If we have several user groups, we should 
 We should also take note of their needs today as well as make projections for the future.
 Drawing on the previous post I put forward that our data should tell us our state, our direction and provide us with the ability to extract sense from vast quantity of data." />
 <meta property="og:url" content="https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/" />
-<meta property="og:site_name" content="Torstein Norendal: Løsningsarkitekt" />
-
-  
-    <meta property="og:image" content="https://eloquent-liger-95916a.netlify.app/img/favicon/orange.png">
-  
-
+<meta property="og:site_name" content="Torstein Norendal: Løsningsarkitekt" />  
+<meta property="og:image" content="https://eloquent-liger-95916a.netlify.app/%20img/favicon/orange.png%20">  
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="627">
-
-
-  <meta property="article:published_time" content="2022-04-25 05:08:21 &#43;0100 &#43;0100" />
-
+<meta property="og:image:height" content="627">  
+<meta property="article:published_time" content="2022-04-25 05:08:21 &#43;0100 &#43;0100" /> 
 
 
 
@@ -74,15 +55,51 @@ Drawing on the previous post I put forward that our data should tell us our stat
 
 
 
+ <script type="text/javascript">
+    (function(window, document, dataLayerName, id) {
+        window[dataLayerName] = window[dataLayerName] || [], window[dataLayerName].push({
+            start: (new Date).getTime(),
+            event: "stg.start"
+        });
+        var scripts = document.getElementsByTagName('script')[0],
+            tags = document.createElement('script');
 
-
+        function stgCreateCookie(a, b, c) {
+            var d = "";
+            if (c) {
+                var e = new Date;
+                e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = "; expires=" + e.toUTCString()
+            }
+            document.cookie = a + "=" + b + d + "; path=/"
+        }
+        var isStgDebug = (window.location.href.match("stg_debug") || document.cookie.match("stg_debug")) && !window.location.href.match("stg_disable_debug");
+        stgCreateCookie("stg_debug", isStgDebug ? 1 : "", isStgDebug ? 14 : -1);
+        var qP = [];
+        dataLayerName !== "dataLayer" && qP.push("data_layer_name=" + dataLayerName), isStgDebug && qP.push("stg_debug");
+        var qPString = qP.length > 0 ? ("?" + qP.join("&")) : "";
+        tags.async = !0, tags.src = "https://torstein.containers.piwik.pro/" + id + ".js" + qPString, scripts.parentNode.insertBefore(tags, scripts);
+        ! function(a, n, i) {
+            a[n] = a[n] || {};
+            for (var c = 0; c < i.length; c++) ! function(i) {
+                a[n][i] = a[n][i] || {}, a[n][i].api = a[n][i].api || function() {
+                    var a = [].slice.call(arguments, 0);
+                    "string" == typeof a[0] && window[dataLayerName].push({
+                        event: n + "." + i + ":" + a[0],
+                        parameters: [].slice.call(arguments, 1)
+                    })
+                }
+            }(i[c])
+        }(window, "ppms", ["tm", "cm"]);
+    })(window, document, 'dataLayer', '8e9b872c-41b6-42ac-82da-b9f09f1b688a');
+</script>
 </head>
+
 <body class="orange">
+    
 
+    <div class="container center headings--one-size ">
 
-<div class="container center headings--one-size">
-
-  <header class="header">
+        <header class="header">
   <div class="header__inner">
     <div class="header__logo">
       <a href="/">
@@ -99,8 +116,8 @@ Drawing on the previous post I put forward that our data should tell us our stat
 </header>
 
 
-  <div class="content">
-    
+        <div class="content">
+            
 <article class="post">
   <h1 class="post-title">
     <a href="https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/">Principles for a platform-wide analytics reporting</a>
@@ -172,10 +189,9 @@ Drawing on the previous post I put forward that our data should tell us our stat
   
 </article>
 
-  </div>
+        </div>
 
-  
-    <footer class="footer">
+         <footer class="footer">
     <div class="footer__inner">
         
             <div class="copyright">
@@ -191,9 +207,9 @@ Drawing on the previous post I put forward that our data should tell us our stat
 
 
 
-
-  
-</div>
+ 
+    </div>
 
 </body>
+
 </html>
