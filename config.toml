@@ -1,4 +1,4 @@
-baseURL = 'torstein.io'
+baseURL = 'https://eloquent-liger-95916a.netlify.app/'
 languageCode = 'en-us'
 title = 'Torstein Norendal: Løsningsarkitekt'
 theme = 'terminal'
