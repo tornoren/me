@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Torstein Norendal: Løsningsarkitekt</title>
-    <link>https://eloquent-liger-95916a.netlify.app/categories/</link>
+    <link>https://torstein.io/categories/</link>
     <description>Recent content in Categories on Torstein Norendal: Løsningsarkitekt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://eloquent-liger-95916a.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://torstein.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

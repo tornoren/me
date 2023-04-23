@@ -2,17 +2,59 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Torstein Norendal: Løsningsarkitekt</title>
-    <link>https://eloquent-liger-95916a.netlify.app/posts/</link>
+    <link>https://torstein.io/posts/</link>
     <description>Recent content in Posts on Torstein Norendal: Løsningsarkitekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 05:08:21 +0100</lastBuildDate><atom:link href="https://eloquent-liger-95916a.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 23:14:10 +0200</lastBuildDate><atom:link href="https://torstein.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Lesson</title>
+      <link>https://torstein.io/posts/first-lesson/</link>
+      <pubDate>Sun, 23 Apr 2023 23:14:10 +0200</pubDate>
+      
+      <guid>https://torstein.io/posts/first-lesson/</guid>
+      <description>The first lesson of the EDx CS50 course introduces key concepts related to the problem of search. For example, the solution provided by Google Maps for directions from point A to point B represents a search problem.
+Assuming point A is your initial state and point B is your goal state, the available choices at any given state, such as point A, correspond to the actions. The outcome of the search problem depends on the state and the actions as inputs.</description>
+      <content>&lt;p&gt;The first lesson of the EDx CS50 course introduces key concepts related to the problem of search. For example, the solution provided by Google Maps for directions from point A to point B represents a search problem.&lt;/p&gt;
+&lt;p&gt;Assuming point A is your initial state and point B is your goal state, the available choices at any given state, such as point A, correspond to the actions. The outcome of the search problem depends on the state and the actions as inputs. Where you end up depends on what you do, and when and where you do it.&lt;/p&gt;
+&lt;p&gt;At some point, you will perform a goal test to determine if the current state is equal to the goal state.&lt;/p&gt;
+&lt;p&gt;These concepts are transferable to human life.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WbzNRTTrX0g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>On an AI journey</title>
+      <link>https://torstein.io/posts/ai-journey/</link>
+      <pubDate>Sun, 23 Apr 2023 21:31:04 +0200</pubDate>
+      
+      <guid>https://torstein.io/posts/ai-journey/</guid>
+      <description>ChatGPT shifts my mood. It fills me with optimism and causes me dread. Now everyone on the planet with a mobile device has access to an assistant like Data from Star Trek.
+But what may prevent this technology from turning on humanity?
+A machine only does what you tell it to do. That observation almost echoes the definition of a machine.
+I fear what I don&amp;rsquo;t understand. So every week I will post an update of what I have learned and hopefully understood.</description>
+      <content>&lt;p&gt;ChatGPT shifts my mood. It fills me with optimism and causes me dread. Now everyone on the planet with a mobile device has access to an assistant like  Data from Star Trek.&lt;/p&gt;
+
+  &lt;img src=&#34;https://torstein.io/img/DataTNG.jpg&#34;  alt=&#34;Data from TNG&#34;  class=&#34;center&#34;  /&gt;
+
+
+&lt;p&gt;But what may prevent this technology from turning on humanity?&lt;/p&gt;
+&lt;p&gt;A machine only does what you tell it to do. That observation almost echoes the definition of a machine.&lt;/p&gt;
+&lt;p&gt;I fear what I don&amp;rsquo;t understand. So every week I will post an update of what I have learned and hopefully understood.&lt;/p&gt;
+&lt;p&gt;The goal of any journey is to go through some kind of change. For better or worse: Here I come.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Principles for a platform-wide analytics reporting</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/</link>
+      <link>https://torstein.io/posts/principles-for-a-platform-wide-analytics-reporting/</link>
       <pubDate>Mon, 25 Apr 2022 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/principles-for-a-platform-wide-analytics-reporting/</guid>
+      <guid>https://torstein.io/posts/principles-for-a-platform-wide-analytics-reporting/</guid>
       <description>A platform in this context refers to a group of sites that share important characteristics.
 Important questions include:
 Who are the users? What do they need? If we have several user groups, we should prioritize and make choices. Which one is more important? And can we help all of them?
@@ -26,7 +68,7 @@ Drawing on the previous post I put forward that our data should tell us our stat
 &lt;/ul&gt;
 &lt;p&gt;If we have several user groups, we should prioritize and make choices. Which one is more important? And can we help all of them?&lt;/p&gt;
 &lt;p&gt;We should also take note of their needs today as well as make projections for the future.&lt;/p&gt;
-&lt;p&gt;Drawing on the &lt;a href=&#34;https://eloquent-liger-95916a.netlify.app/posts/three-ground-rules-for-your-analytics&#34;&gt;previous post&lt;/a&gt; I put forward that our data should tell us our state, our direction and provide us with the ability to extract sense from vast quantity of data.&lt;/p&gt;
+&lt;p&gt;Drawing on the &lt;a href=&#34;https://torstein.io/posts/three-ground-rules-for-your-analytics&#34;&gt;previous post&lt;/a&gt; I put forward that our data should tell us our state, our direction and provide us with the ability to extract sense from vast quantity of data.&lt;/p&gt;
 &lt;p&gt;From the vantage point of the biggest user group, the reporting should provide a quick overview of the most important metrics today as well as indicate the trends to let us assess the direction we are going.&lt;/p&gt;
 &lt;p&gt;Easy.&lt;/p&gt;
 &lt;p&gt;From the platform perspective the reporting should let us quickly navigate from the whole via the subgroup to the relevant site. We should combine numbers and present and aggregated view or views - if we have several subgroups of sites.&lt;/p&gt;
@@ -41,10 +83,10 @@ Drawing on the previous post I put forward that our data should tell us our stat
     
     <item>
       <title>Three ground rules for your analytics setup</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/three-ground-rules-for-your-analytics/</link>
+      <link>https://torstein.io/posts/three-ground-rules-for-your-analytics/</link>
       <pubDate>Tue, 18 Jan 2022 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/three-ground-rules-for-your-analytics/</guid>
+      <guid>https://torstein.io/posts/three-ground-rules-for-your-analytics/</guid>
       <description>There are three key elements to a strong analytics setup. Whatever your system, workflow or software you need this needs to be in place. The essence is simple:
 1. State Your data will not tell you what you need to know. You will have to instruct it. When you look out the window, you can tell what the weather is like. Your data should at first glance indicate how you are doing.</description>
       <content>&lt;p&gt;There are three key elements to a strong analytics setup. Whatever your system, workflow or software you need this needs to be in place. The essence is simple:&lt;/p&gt;
@@ -63,10 +105,10 @@ Drawing on the previous post I put forward that our data should tell us our stat
     
     <item>
       <title>Planning is overrated – looking ahead is not</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/planning-is-overrated-looking-ahead-is-not/</link>
+      <link>https://torstein.io/posts/planning-is-overrated-looking-ahead-is-not/</link>
       <pubDate>Sun, 19 Dec 2021 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/planning-is-overrated-looking-ahead-is-not/</guid>
+      <guid>https://torstein.io/posts/planning-is-overrated-looking-ahead-is-not/</guid>
       <description>Look ahead. There&amp;rsquo;s always hope. There are always opportunities.
 Don&amp;rsquo;t get bogged down by the details. But set the course.
 You cannot know all the things that may go wrong. And we often underestimate learning and creativity along the way.
@@ -80,10 +122,10 @@ So here&amp;rsquo;s to full steam ahead.</description>
     
     <item>
       <title>Setbacks and comebacks: On fortitude</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/fortitude/</link>
+      <link>https://torstein.io/posts/fortitude/</link>
       <pubDate>Thu, 19 Aug 2021 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/fortitude/</guid>
+      <guid>https://torstein.io/posts/fortitude/</guid>
       <description>Resilience. Grit. Toughness.
 Setbacks may bring major concerns. What doesn&amp;rsquo;t kill you, does not make you stronger. They set you back.
 Some will say you&amp;rsquo;ll grow scar tissue, you&amp;rsquo;ll become thick-skinned, you&amp;rsquo;ll develop fortitude. But that&amp;rsquo;s not the case. Instead, you will recognize patterns.
@@ -98,10 +140,10 @@ Instead, you will recognize patterns.&lt;/p&gt;
     
     <item>
       <title>Working slow and fast: How to benefit from both modes of thinking</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/working-slow-fast/</link>
+      <link>https://torstein.io/posts/working-slow-fast/</link>
       <pubDate>Wed, 17 Mar 2021 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/working-slow-fast/</guid>
+      <guid>https://torstein.io/posts/working-slow-fast/</guid>
       <description>Whenever I want go deep, I am distracted by things “I need to do”. And that’s true: If I do not adress them, my work will suffer.
 And whenever do I block out everything that is not related to the deeper task at hand, I am constantly on the lookout for fast decisions that require little understanding, but help me feel productive. In effect, that work dampens real progress.
 But when I do succeed at working slow and coming up with a feasible solution to a deeper problem, I manage to reach decisions on other questions much faster.</description>
@@ -118,10 +160,10 @@ But when I do succeed at working slow and coming up with a feasible solution to 
     
     <item>
       <title>You are what you do - or how our tools define us</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/you-are-what-you-do/</link>
+      <link>https://torstein.io/posts/you-are-what-you-do/</link>
       <pubDate>Tue, 24 Nov 2020 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/you-are-what-you-do/</guid>
+      <guid>https://torstein.io/posts/you-are-what-you-do/</guid>
       <description>Someone said: First we shape our tools, then they shape us.
 Excel is an excellent tool for long-term planning in a low-res perspective in a rigorous | unflexible manner.
 Word is good for producing longstanding documents that dictate the solutions long after the problems were forgotten.
@@ -138,10 +180,10 @@ Powerpoint is a great helper when you want to persuade or put your foot in the d
     
     <item>
       <title>Technology is what we don’t understand</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/technology-is-what-we-dont-understand/</link>
+      <link>https://torstein.io/posts/technology-is-what-we-dont-understand/</link>
       <pubDate>Thu, 19 Nov 2020 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/technology-is-what-we-dont-understand/</guid>
+      <guid>https://torstein.io/posts/technology-is-what-we-dont-understand/</guid>
       <description>We all want fixes. We want simple solutions. We want someone to take away our worries.
 But we do not want or need to understand how.
 Because once we understand how, the magic disappears. The emperor has no clothes. It was a trick.
@@ -155,10 +197,10 @@ And the belief in magic keeps us going. It motivates us to look for the next tec
     
     <item>
       <title>Fragmenting the user: How complexity can undermine your product</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/fragmenting-the-user/</link>
+      <link>https://torstein.io/posts/fragmenting-the-user/</link>
       <pubDate>Wed, 14 Oct 2020 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/fragmenting-the-user/</guid>
+      <guid>https://torstein.io/posts/fragmenting-the-user/</guid>
       <description>The user doesn&amp;rsquo;t exist. No one conforms to this abstraction. Yet, it is useful.
 Many discussions on design revolve around simplicity: How can we make this feature easier to understand, how can we make this product more intuitive, how can we simplify this design?
 Adding multiple user types increases the number of factors exponentially. Complexity and competing priorities appear as a result.
@@ -174,10 +216,10 @@ Successful products are strategically mono-dimensional. The interesting question
     
     <item>
       <title>Sticky elements on mobile that work</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/sticky-elements-on-mobile-that-work/</link>
+      <link>https://torstein.io/posts/sticky-elements-on-mobile-that-work/</link>
       <pubDate>Thu, 13 Aug 2020 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/sticky-elements-on-mobile-that-work/</guid>
+      <guid>https://torstein.io/posts/sticky-elements-on-mobile-that-work/</guid>
       <description>In our investigation of this we found no other way to present table of contents to help people navigate and read long medical treatment texts. We decided to go for a sticky TOC on mobile and smaller screens.
 Having gone back and forth for some time on sticky elements on really long pages, here&amp;rsquo;s what we&amp;rsquo;ve learned:
 sticky elements are annoying as a rule they should not be used but exceptions do exist So when do sticky elements on mobile actually help the user?</description>
@@ -203,10 +245,10 @@ sticky elements are annoying as a rule they should not be used but exceptions do
     
     <item>
       <title>Gerry McGovern on navigation</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/gerry-mcgovern-on-navigation/</link>
+      <link>https://torstein.io/posts/gerry-mcgovern-on-navigation/</link>
       <pubDate>Fri, 13 Dec 2019 05:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/gerry-mcgovern-on-navigation/</guid>
+      <guid>https://torstein.io/posts/gerry-mcgovern-on-navigation/</guid>
       <description>In Gerry McGovern&amp;rsquo;s book on top tasks he describes seven principles of effective digital navigation:
 Momentum
 Keep people moving forward
@@ -257,10 +299,10 @@ Maximize clean magnetism, minimize dirty magnetism.&lt;/p&gt;
     
     <item>
       <title>Om navigasjon og innholdsstruktur</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/navigasjon-og-innholdsstruktur/</link>
+      <link>https://torstein.io/posts/navigasjon-og-innholdsstruktur/</link>
       <pubDate>Thu, 12 Dec 2019 06:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/navigasjon-og-innholdsstruktur/</guid>
+      <guid>https://torstein.io/posts/navigasjon-og-innholdsstruktur/</guid>
       <description>Det er gunstig å skille mellom innholdsstrukturen og navigasjonssystemet.
 Innholdsstrukturen viser til den hierarkiske organiseringen, mens navigasjonssystemet primært hjelper brukeren med å navigere til det viktigste innholdet. Dette skjer i meny, footer og eventuelt med brødsmulesti.
 Navigasjonssystemet Meny Denne skal gjenspeile de viktigste brukeroppgavene, ikke være en nøyaktig refleksjon av den underliggende strukturen.
@@ -304,10 +346,10 @@ Menyen får en blanding av disse elementene: De viktigste kjernesidene der topp
     
     <item>
       <title>On the separation of user research and design</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/user-research-and-design/</link>
+      <link>https://torstein.io/posts/user-research-and-design/</link>
       <pubDate>Wed, 09 Oct 2019 15:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/user-research-and-design/</guid>
+      <guid>https://torstein.io/posts/user-research-and-design/</guid>
       <description>Twice I have had a falling out regarding the utility of user research. On those two occasions I have failed to build an understanding of my perspective. I encountered what I would like to call the value-free user research perspective.
 This lofty ideal is alluring: We as design researchers can provide truth to the designers given enough time and money. But no-one can do this – and if some godlike person could give us a complete understanding of the user, no-one would need it because that knowledge is only valuable to the extent that it may be related to the product.</description>
       <content>&lt;p&gt;Twice I have had a falling out regarding the utility of user research. On those two occasions I have failed to build an understanding of my perspective. I encountered what I would like to call the value-free user research perspective.&lt;/p&gt;
@@ -339,10 +381,10 @@ This lofty ideal is alluring: We as design researchers can provide truth to the 
     
     <item>
       <title>Er du et verktøy eller et produkt?</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/verktoy-eller-produkt/</link>
+      <link>https://torstein.io/posts/verktoy-eller-produkt/</link>
       <pubDate>Tue, 11 Dec 2018 15:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/verktoy-eller-produkt/</guid>
+      <guid>https://torstein.io/posts/verktoy-eller-produkt/</guid>
       <description>Boka E-myth Revisited sier at det øyeblikket der du går fra å jobbe i butikken til å jobbe med butikken din, er tidspunktet der du tar styringen.
 Men gjelder ikke det også meg og deg? Visst skal vi pumpe ut arbeid og levere – men bør vi ikke sørge for at outputen vår i morgen er mer verdt enn i dag?</description>
       <content>&lt;p&gt;Boka &lt;a href=&#34;https://www.amazon.com/Myth-Revisited-Small-Businesses-About-ebook/dp/B000RO9VJK/ref=sr_1_1?keywords=emyth+revisited&amp;amp;qid=1570993795&amp;amp;sr=8-1&#34;&gt;E-myth Revisited&lt;/a&gt; sier at det øyeblikket der du går fra å jobbe i butikken til å jobbe &lt;em&gt;med&lt;/em&gt; butikken din, er tidspunktet der du tar styringen.&lt;/p&gt;
@@ -352,10 +394,10 @@ Men gjelder ikke det også meg og deg? Visst skal vi pumpe ut arbeid og levere �
     
     <item>
       <title>Innovasjon vs. gjennomførbarhet i prosjekter</title>
-      <link>https://eloquent-liger-95916a.netlify.app/posts/innovasjon-vs-gjennomforbarhet/</link>
+      <link>https://torstein.io/posts/innovasjon-vs-gjennomforbarhet/</link>
       <pubDate>Mon, 19 Nov 2018 15:08:21 +0100</pubDate>
       
-      <guid>https://eloquent-liger-95916a.netlify.app/posts/innovasjon-vs-gjennomforbarhet/</guid>
+      <guid>https://torstein.io/posts/innovasjon-vs-gjennomforbarhet/</guid>
       <description>Som eksperter for Forskningsrådet skal vi gi prosjekter karakter etter hvor innovative de er og hvor gjennomførbare de er. Jeg merket etter hvert at dette ble en liten øvelse i kompromiss:
 Er prosjektet innovativt, blir det sannsynligvis vanskelig å gjennomføre det til punkt og prikke i henhold til plan. Er derimot prosjektet gjennomførbart, er det kanskje ikke så innovativt.
 De som skåret midddels på begge faktorene oppfattet jeg som pregløse og uinteressante.</description>
