@@ -4,7 +4,9 @@ cover = "/img/torstein_norendal.png"
 description = "Beskrivelse av det bidrar med"
 +++
 
-Som løsningsarkitekt leverer jeg mest verdi når jeg utforsker det kreative og analytiske rommet, konkretiserer spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.
+Som løsningsarkitekt konkretiserer jeg spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.
+
+Denne detaljerer teamet og jeg. Dit skal vi.
 
 Jeg tror på eierskap og autonomi. Ingenting binder team sterkere sammen enn en felles oppgave. Ved å løse vanskelige problemer sammen, går vi fra jeg til vi. Da får også fjernbingo på hjemmekontoret en verdi. 
 
@@ -17,7 +19,7 @@ Når jeg har det strategiske perspektivet, vekter de faglige bidragene og styrer
 
 ## Prosjekter
 **Migrering, redesign og nykonstruksjon av Felles nettløsning for spesialisthelsetjenesten (2022 - 2023)**  
-Teamledelse og løsningsarkitektur, Optimizely DXP
+Teamleder, Optimizely DXP
 
 **Felles nettløsning for spesialisthelsetjenesten (2020 - 2023 )**  
 Produktansvarlig
