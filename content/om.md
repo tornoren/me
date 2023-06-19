@@ -4,13 +4,12 @@ cover = "/img/torstein_norendal.png"
 description = "Beskrivelse av det bidrar med"
 +++
 
-Som løsningsarkitekt konkretiserer jeg spørsmål og foreslår en retning på løsningen. Enten i form av skisser, modeller eller tekst.
+Som løsningsarkitekt konverterer jeg behov og ideer til konsepter for verdifulle produkter og tjenester. Videre følger jeg prosessen fra skisser og klikkbare prototyper til ferdig utviklede og kvalitetstestede produkter.
 
-Denne detaljerer teamet og jeg. Dit skal vi.
+Med erfaring fra både design- og utviklingsorganisasjoner kan jeg kommunisere effektivt med både designere og utviklere. På grunnlag av dette spesifiserer jeg løsningen funksjonelt ved hjelp av interaksjonsskisser og funksjonelle beskrivelser. Jeg samarbeider også godt med tekniske arkitekter.
 
-Jeg tror på eierskap og autonomi. Ingenting binder team sterkere sammen enn en felles oppgave. Ved å løse vanskelige problemer sammen, går vi fra jeg til vi. Da får også fjernbingo på hjemmekontoret en verdi. 
+Etter 14 år i bransjen har jeg et nettverk meed firmaer og fagfolk å samarbeide med. Selv om jeg ikke søker oppmerksomhet, har jeg mange referanser tilgjengelig ved behov.
 
-Når jeg har det strategiske perspektivet, vekter de faglige bidragene og styrer mot produktvisjonen bidrar jeg mest.
 
 
 ## Kontakt

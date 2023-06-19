@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
+draft = true
 color = "" #color from the theme settings
 +++
 

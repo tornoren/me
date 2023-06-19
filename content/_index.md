@@ -5,9 +5,13 @@ draft: false
 framed: true
 ---
 
-Heisann, dette er stedet der jeg formidler det jeg jobber med. Det meste er indremedisinsk, men kanskje flere ha nytte av det. 
+Heisann! 
 
-* [Om meg](/om)
-* [Tekster](/posts)
+Torstein heter jeg. Kanskje du trenger noe av meg?
+
+50% tilgjengelighet fra 1. september. 
+
+[Om meg](/om)
+
 
 
