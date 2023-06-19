@@ -10,7 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
-draft = true
+draft = false
 color = "" #color from the theme settings
 +++
 
@@ -22,6 +22,6 @@ But what may prevent this technology from turning on humanity?
 
 A machine only does what you tell it to do. That observation almost echoes the definition of a machine.
 
-I fear what I don't understand. So every week I will post an update of what I have learned and hopefully understood. 
+I fear what I don't understand. So every ~~week~~ time I have something to share, I will post an update of what I have learned and hopefully understood. 
 
 The goal of any journey is to go through some kind of change. For better or worse: Here I come.
