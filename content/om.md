@@ -73,8 +73,8 @@ Engelsk innhold og stil og tone
 
 ## Arbeid
 
-**Athena (2019 - )**  
-Løsningsarkitekt
+**Torstein Norendal AS (2019 - )**  
+Rådgiver og funksjonell arkitekt
 
 **Netlife (2015 - 2019)**  
 Innholdsrådgiver, interaksjonsdesigner og prosjektleder
