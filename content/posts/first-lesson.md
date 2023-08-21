@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
+draft = true
 color = "" #color from the theme settings
 +++
 The first lesson of the EDx CS50 course introduces key concepts related to the problem of search. For example, the solution provided by Google Maps for directions from point A to point B represents a search problem.

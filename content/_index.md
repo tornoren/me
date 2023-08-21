@@ -5,9 +5,10 @@ draft: false
 framed: true
 ---
 
-Heisann! 
+Heisann!   
 
-Torstein heter jeg. Kanskje du trenger noe av meg?
+Torstein heter jeg, og jeg rådgir bedrifter og organisasjoner innen teknologi og design. 
+
 
 50% tilgjengelighet fra 1. september. 
 
