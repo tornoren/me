@@ -1,6 +1,6 @@
 +++
 title = "Om"
-cover = "/img/torstein-norendal.webp"
+cover = "/img/torstein_norendal.png"
 description = "Beskrivelse av det bidrar med"
 +++
 
