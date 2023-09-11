@@ -1,14 +1,14 @@
 +++
 title = "Om"
 cover = "/img/torstein_norendal.png"
-description = "Beskrivelse av det bidrar med"
+description = "Beskrivelse av det jeg bidrar med"
 +++
 
-Som løsningsarkitekt konverterer jeg behov og ideer til konsepter for verdifulle produkter og tjenester. Videre følger jeg prosessen fra skisser og klikkbare prototyper til ferdig utviklede og kvalitetstestede produkter.
+Som rådgiver til produkteiere bidrar jeg med innsikt og strategi. 
 
-Med erfaring fra både design- og utviklingsorganisasjoner kan jeg kommunisere effektivt med både designere og utviklere. På grunnlag av dette spesifiserer jeg løsningen funksjonelt ved hjelp av interaksjonsskisser og funksjonelle beskrivelser. Jeg samarbeider også godt med tekniske arkitekter.
+Etter fire års fulltidsengasjement som teamleder,  produktansvarlig og funksjonell arkitekt tilbyr jeg nå denne erfaringen til andre.  
 
-Etter 14 år i bransjen har jeg et nettverk meed firmaer og fagfolk å samarbeide med. Selv om jeg ikke søker oppmerksomhet, har jeg mange referanser tilgjengelig ved behov.
+Med røtter i innhold og brukeropplevelse og snart femten års erfaring skaper jeg verdi ved å gjennomføre bygge analyserigger og gjennomføre strategiprosesser. Til beste for ditt produkt
 
 
 
