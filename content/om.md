@@ -8,8 +8,6 @@ Som rådgiver til produkteiere bidrar jeg med innsikt og strategi.
 
 Etter fire års fulltidsengasjement som teamleder,  produktansvarlig og funksjonell arkitekt tilbyr jeg nå denne erfaringen til andre.  
 
-Med røtter i innhold og brukeropplevelse og snart femten års erfaring skaper jeg verdi ved å gjennomføre bygge analyserigger og gjennomføre strategiprosesser. Til beste for ditt produkt
-
 
 
 ## Kontakt

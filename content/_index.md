@@ -7,7 +7,7 @@ framed: true
 
 Heisann!   
 
-Torstein heter jeg, og jeg rådgir bedrifter og organisasjoner innen teknologi og design. 
+Torstein heter jeg, og jeg rådgir produkteiere og bidrar med innsikt og strategi - til beste for ditt produkt.  
 
 
 50% tilgjengelighet fra 1. september. 
