@@ -31,6 +31,9 @@ Teamleder, Optimizely DXP
 **Felles nettløsning for spesialisthelsetjenesten (2020 - 2023 )**  
 Produktansvarlig
 
+**Klassekampen (2019 - 2022)**   
+Analyserigg for bruk og konvertering
+
 **Dyrehelsenett (2022)**  
 Løsningsarkitektur for en norsk kunnskapsplattform for dyrehelse 
 
