@@ -4,15 +4,25 @@ cover = "/img/torstein_norendal.png"
 description = "Beskrivelse av det jeg bidrar med"
 +++
 
-Som rådgiver til produkteiere bidrar jeg med innsikt og strategi. 
+Som rådgiver til produkteiere bidrar jeg med innsikt du kan gjøre noe **med**. 
 
-Etter fire års fulltidsengasjement som teamleder,  produktansvarlig og funksjonell arkitekt tilbyr jeg nå denne erfaringen til andre.  
+Etter fire års fulltidsengasjement som teamleder,  produktansvarlig og funksjonell arkitekt tilbyr jeg nå denne erfaringen til andre. Spesifikt tilbyr jeg produktinnsikt som du kan omsette til arbeid, resultater og verdi. 
 
+Med nær femten års erfaring fra flere roller ser jeg produkter i flere perspektiv: 
+
+* Som produktansvarlig forstår jeg interne prosesser og interesser
+* Som innholdsrådgiver vet hvordan man når fram effektivt
+* Som interaksjonsdesigner forstår jeg hvordan folk forstår og forestiller seg løsningen
+* Som innsiktsrådgiver klarer jeg å finne mønster i tall og oversette funn til konkrete anbefalinger
+
+Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle bort det unødvendige og foredle de mest verdifulle funksjonene i produktet ditt. Til glede for deg og brukerne dine.
 
 
 ## Kontakt
-<a href="tel:91128335">911 28 335</a>  
-<a href="mailto:torstein.norendal@gmail.com">torstein.norendal@gmail.com</a>
+<a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
+[911 28 335](tel:91128335)  
+[Linkedin](https://www.linkedin.com/in/torstein-norendal/)
+
 
 ## Prosjekter
 **Migrering, redesign og nykonstruksjon av Felles nettløsning for spesialisthelsetjenesten (2022 - 2023)**  
