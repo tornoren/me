@@ -26,4 +26,7 @@ paginate = 3
       logoText = "Torstein Norendal: Produktrådgiver"
       logoHomeLink = "/"
 
-    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

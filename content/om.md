@@ -18,6 +18,14 @@ Med nær femten års erfaring fra flere roller ser jeg produkter i flere perspek
 Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle bort det unødvendige og foredle de mest verdifulle funksjonene i produktet ditt. Til glede for deg og brukerne dine.
 
 
+## Tjenester
+Nøyaktig innhold i oppdrag blir vi enige om. Men jeg kan hjelpe deg å finne svar på følgende spørsmål: 
+
+* Måler jeg det vil måle? 
+* Hvordan kan målingsoppsettet bli bedre?
+* Hvordan kan jeg enklere trekke innsikt ut av dataene mine? 
+* Er KPI'ene mine i harmoni med strategien min?
+
 ## Kontakt
 <a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
 [911 28 335](tel:91128335)  
