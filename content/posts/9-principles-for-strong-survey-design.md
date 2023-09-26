@@ -17,6 +17,7 @@ color = "" #color from the theme settings
 
 <!-- Your content here -->
 Surveys are a powerful tool for gathering information, understanding preferences, and making data-driven decisions. However, the effectiveness of a survey largely depends on its design. Here are nine principles for strong survey design that can help you craft a survey that yields accurate and actionable insights.
+<!--more-->
 
 ## 1. Logical Flow
 Start with basic questions that serve as an introduction before diving into more complex or sensitive topics. A well-structured survey guides respondents logically from one question to the next, making the process intuitive and coherent.
