@@ -2,7 +2,30 @@
 title = "Om"
 cover = "/img/torstein_norendal.png"
 description = "Beskrivelse av det jeg bidrar med"
+draft = true
 +++
+
+
+#### Product Development
+
+
+Vil ha et triangel. 
+
+Hva er basen. 
+
+Vekst i toppen. 
+
+En pillar er strategi. En annen er brukerinnsikt. En tredje er når de to møtes. 
+
+
+
+: The process of designing, creating, and improving products to meet user needs.
+
+Market Positioning
+: The strategic process of defining how a product or brand is perceived in the market.
+
+Content Marketing
+: A marketing strategy that involves creating and distributing valuable content to attract and engage a target audience.
 
 Som rådgiver til produkteiere bidrar jeg med innsikt du kan gjøre noe med. 
 
@@ -19,9 +42,12 @@ Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle b
 
 
 ## Tjenester
-* Vekststrategi  
-* Budskap og posisjonering i markedskommunikasjon
-* Utviklingsprosess tuftet på brukerinnsikt
+Nøyaktig innhold i oppdrag blir vi enige om. Men jeg kan hjelpe deg å finne svar på følgende spørsmål: 
+
+* Måler jeg det vil måle? 
+* Hvordan kan målingsoppsettet bli bedre?
+* Hvordan kan jeg enklere trekke innsikt ut av dataene mine? 
+* Er KPI'ene mine i harmoni med strategien min?
 
 ## Kontakt
 <a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
