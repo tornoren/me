@@ -7,10 +7,8 @@ framed: true
 
 Heisann!   
 
-Torstein heter jeg, og jeg rådgir produkteiere og leverer innsikt, funn og anbefalinger du kan bruke til noe - til beste for ditt produkt.  
+Torstein heter jeg, og jeg hjelper deg som utvikler digitale produkter med innhold og innsikt for å bygge bedre produkter.
 
-
-50% tilgjengelighet fra 1. november. 
 
 [Om meg](/om)
 

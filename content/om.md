@@ -19,9 +19,11 @@ Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle b
 
 
 ## Tjenester
-* Vekststrategi  
-* Budskap og posisjonering i markedskommunikasjon
-* Utviklingsprosess tuftet på brukerinnsikt
+* Innhold og informasjonsarkitektur
+* Brukerinnsikt og analyse
+
+## Domenekunnskap
+De siste årene har jeg jobbet mest med helserelaterte produkter. 
 
 ## Kontakt
 <a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
