@@ -19,8 +19,11 @@ Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle b
 
 
 ## Tjenester
-* Innhold og informasjonsarkitektur
+* Produktledelse
+* Teamledelse
 * Brukerinnsikt og analyse
+* Kontinuerlig forbedring
+
 
 ## Domenekunnskap
 De siste årene har jeg jobbet mest med helserelaterte produkter. 

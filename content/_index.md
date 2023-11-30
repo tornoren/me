@@ -7,7 +7,7 @@ framed: true
 
 Heisann!   
 
-Torstein heter jeg, og jeg hjelper deg som utvikler digitale produkter med innhold og innsikt for å bygge bedre produkter.
+Torstein heter jeg, og jeg hjelper deg som utvikler digitale produkter med innsikt for å bygge bedre produkter.
 
 
 [Om meg](/om)
