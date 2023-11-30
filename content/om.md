@@ -21,7 +21,8 @@ Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle b
 ## Tjenester
 * Produktledelse
 * Teamledelse
-* Brukerinnsikt og analyse
+* Kvantitativ og kvalitativ brukerinnsikt
+* Analyse og rådgivning 
 * Kontinuerlig forbedring
 
 
