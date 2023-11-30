@@ -10,8 +10,7 @@ Etter fire års fulltidsengasjement som teamleder,  produktansvarlig og funksjon
 
 Med nær femten års erfaring fra flere roller ser jeg produkter i flere perspektiv: 
 
-* Som produktansvarlig forstår jeg interne prosesser og interesser
-* Som innholdsrådgiver vet hvordan man når fram effektivt
+* Som produktleder kobler jeg det strategiske målet med brukerens ønsker og oppgaver
 * Som interaksjonsdesigner forstår jeg hvordan folk forstår og forestiller seg løsningen
 * Som innsiktsrådgiver klarer jeg å finne mønster i tall og oversette funn til konkrete anbefalinger
 
