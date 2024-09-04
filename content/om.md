@@ -1,6 +1,6 @@
 +++
 title = "Om"
-cover = "/ta_norendal.png"
+cover = "/img/ta_norendal.png"
 description = "Beskrivelse av det jeg bidrar med"
 +++
 
