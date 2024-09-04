@@ -35,6 +35,12 @@ De siste årene har jeg jobbet mest med helserelaterte produkter.
 
 
 ## Prosjekter
+** Helseplattformen (2024) **
+Ledelse og koordinering av flere team på psykisk helse og rus-området
+
+** Empet (2023) **
+Prosjektledelse av empet.no (imlementering av Sanity og nytt design)
+
 **Migrering, redesign og nykonstruksjon av Felles nettløsning for spesialisthelsetjenesten (2022 - 2023)**  
 Teamleder, Optimizely DXP
 
