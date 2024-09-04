@@ -1,6 +1,6 @@
 +++
 title = "Om"
-cover = "/img/torstein_norendal.png"
+cover = "/img/ta_norendal.png"
 description = "Beskrivelse av det jeg bidrar med"
 +++
 
@@ -39,7 +39,7 @@ De siste årene har jeg jobbet mest med helserelaterte produkter.
 Ledelse og koordinering av flere team på psykisk helse og rus-området
 
 **Empet (2023)**  
-Prosjektledelse av empet.no (imlementering av Sanity og nytt design)
+Prosjektledelse av empet.no (implementering av Sanity og nytt design)
 
 **Migrering, redesign og nykonstruksjon av Felles nettløsning for spesialisthelsetjenesten (2022 - 2023)**  
 Teamleder, Optimizely DXP
