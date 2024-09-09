@@ -1,6 +1,6 @@
 baseURL = 'https://torstein.io/'
 languageCode = 'en-us'
-title = 'Torstein Norendal: Produktrådgiver'
+title = 'Torstein Norendal: Produkt- og prosjektleder'
 theme = 'terminal'
 paginate = 3
 
@@ -14,7 +14,7 @@ paginate = 3
 
 [languages]
   [languages.en]
-    title = "Torstein Norendal: Produktrådgiver"
+    title = "Torstein Norendal: Produkt- og prosjektleder"
     subtitle = "Tekster om det jeg gjør"
     keywords = ""
     copyright = ""
@@ -23,7 +23,7 @@ paginate = 3
     readOtherPosts = "Read other posts"
 
   [languages.en.params.logo]
-      logoText = "Torstein Norendal: Produktrådgiver"
+      logoText = "Torstein Norendal: Produkt- og prosjektleder"
       logoHomeLink = "/"
 
 [markup]
