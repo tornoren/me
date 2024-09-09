@@ -4,21 +4,20 @@ cover = "/img/ta_norendal.png"
 description = "Beskrivelse av det jeg bidrar med"
 +++
 
-Som rådgiver til produkteiere bidrar jeg med innsikt du kan gjøre noe med. 
 
-Etter fire års fulltidsengasjement som teamleder,  produktansvarlig og funksjonell arkitekt tilbyr jeg nå denne erfaringen til andre. Spesifikt tilbyr jeg produktinnsikt som du kan omsette til arbeid, resultater og verdi. 
+Med erfaring fra ledelse av produkt og team, funksjonell arkitektur, brukerinnsikt og innhold leder jeg prosjekter operativt og strategisk. 
 
-Med nær femten års erfaring fra flere roller ser jeg produkter i flere perspektiv: 
+Med innsikt fra flere disipliner leder jeg prosjekter og produkter helhetlig og sørger for at teamet skaper et resultat der brukerbehov og forretningsmål møtes.
 
-* Som produktleder kobler jeg det strategiske målet med brukerens ønsker og oppgaver
-* Som interaksjonsdesigner forstår jeg hvordan folk forstår og forestiller seg løsningen
-* Som innsiktsrådgiver klarer jeg å finne mønster i tall og oversette funn til konkrete anbefalinger
+Et strategisk blikk kombinert med et empatisk øye for brukeren hjelper jeg teamet til å prioritere det viktigste som skaper mest verdi. Med evne til å sammenfatte og sammenholde kvalitative og kvantitative data oversetter jeg funn og mønster til konkrete mål og milepæler. Det rydder opp i kompleksitet og forenkler beslutninger
 
-Denne produktkunnskapen setter deg i stand til å prioritere arbeidet, skrelle bort det unødvendige og foredle de mest verdifulle funksjonene i produktet ditt. Til glede for deg og brukerne dine.
+Ved hjelp av tydelig kommunikasjon, godt humør og lettbeint koordinering og kombinert med en strategisk tilnærming, leverer jeg målbare resultater. 
+
+
 
 
 ## Tjenester
-* Produktledelse
+* Produktledelse / prosjektledelse
 * Teamledelse
 * Kvantitativ og kvalitativ brukerinnsikt
 * Analyse og rådgivning 
