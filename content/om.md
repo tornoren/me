@@ -7,11 +7,11 @@ description = "Beskrivelse av det jeg bidrar med"
 
 Med erfaring fra ledelse av produkt og team, funksjonell arkitektur, brukerinnsikt og innhold leder jeg prosjekter operativt og strategisk. 
 
-Med innsikt fra flere disipliner leder jeg prosjekter og produkter helhetlig og sørger for at teamet skaper et resultat der brukerbehov og forretningsmål møtes.
+Innsikten fra flere disipliner sørger for at teamet jobber helhetlig skaper et resultat der brukerbehov og forretningsmål møtes.
 
-Et strategisk blikk kombinert med et empatisk øye for brukeren hjelper jeg teamet til å prioritere det viktigste som skaper mest verdi. Med evne til å sammenfatte og sammenholde kvalitative og kvantitative data oversetter jeg funn og mønster til konkrete mål og milepæler. Det rydder opp i kompleksitet og forenkler beslutninger
+Med et strategisk blikk kombinert med grunnleggende empati med brukeren hjelper jeg teamet til å prioritere det som skaper mest verdi. Med evne til å sammenfatte og sammenholde kvalitative og kvantitative data oversetter jeg funn og mønster til konkrete mål og milepæler. Det rydder opp i kompleksitet og forenkler beslutninger.
 
-Ved hjelp av tydelig kommunikasjon, godt humør og lettbeint koordinering og kombinert med en strategisk tilnærming, leverer jeg målbare resultater. 
+Ved hjelp av tydelig kommunikasjon, godt humør og effektiv koordinering leverer jeg målbare resultater som virkeliggjør din strategi.
 
 
 
