@@ -5,9 +5,9 @@ draft: false
 framed: true
 ---
 
-Heisann!   
+Hei, 
 
-Torstein heter jeg, og jeg hjelper deg som trenger noen til å lede et produkt eller prosjekt. Vil du vite mer?
+Torstein heter jeg, og jeg hjelper deg som trenger noen til å virkeliggjøre et produkt eller et prosjekt. Med rette betingelser garanterer jeg for resultatet. Vil du vite mer?
 
 [Om meg](/om)
 
