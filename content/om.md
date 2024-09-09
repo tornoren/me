@@ -13,6 +13,10 @@ Med et strategisk blikk kombinert med grunnleggende empati med brukeren hjelper 
 
 Ved hjelp av tydelig kommunikasjon, godt humør og effektiv koordinering leverer jeg målbare resultater som virkeliggjør din strategi.
 
+## Kontakt
+<a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
+[911 28 335](tel:91128335)  
+[Linkedin](https://www.linkedin.com/in/torstein-norendal/)
 
 
 
@@ -23,15 +27,8 @@ Ved hjelp av tydelig kommunikasjon, godt humør og effektiv koordinering leverer
 * Analyse og rådgivning 
 * Kontinuerlig forbedring
 
-
 ## Domenekunnskap
 De siste årene har jeg jobbet mest med helserelaterte produkter. 
-
-## Kontakt
-<a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
-[911 28 335](tel:91128335)  
-[Linkedin](https://www.linkedin.com/in/torstein-norendal/)
-
 
 ## Prosjekter
 **Helseplattformen (2024)**  
