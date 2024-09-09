@@ -139,7 +139,8 @@ Foundation + Practitioner
 
 **Snomed CT Foundation (2020)**  
 
-**Google Analytics IQ (2016)**  
+**Google Analytics 4 Certified (2023)**  
+Blockchain ID: 815683  
 
 
 
