@@ -4,33 +4,29 @@ cover = "/img/ta_norendal.png"
 description = "Beskrivelse av det jeg bidrar med"
 +++
 
-
-Med erfaring fra ledelse av produkt og team, funksjonell arkitektur, brukerinnsikt og innhold leder jeg prosjekter operativt og strategisk. 
-
-Innsikten fra flere disipliner sørger for at teamet jobber helhetlig skaper et resultat der brukerbehov og forretningsmål møtes.
-
-Med et strategisk blikk kombinert med grunnleggende empati med brukeren hjelper jeg teamet til å prioritere det som skaper mest verdi. Med evne til å sammenfatte og sammenholde kvalitative og kvantitative data oversetter jeg funn og mønster til konkrete mål og milepæler. Det rydder opp i kompleksitet og forenkler beslutninger.
-
-Ved hjelp av tydelig kommunikasjon, godt humør og effektiv koordinering leverer jeg målbare resultater som virkeliggjør din strategi.
-
 ## Kontakt
-<a href="mailto:mail@torstein.io">torstein.norendal@gmail.com</a>  
+<a href="mailto:torstein.norendal@gmail.com">torstein.norendal@gmail.com</a>  
 [911 28 335](tel:91128335)  
 [Linkedin](https://www.linkedin.com/in/torstein-norendal/)
 
 
+Jeg hjelper deg med å finne, forstå og formidle det som betyr mest for brukerne dine. Ved hjelp av kvalitativ brukerinnsikt og kvantitative analyser hjelper jeg deg med å utforme og bygge enklere løsninger som skaper verdi for brukerne og organisasjonen din. 
+
+Det hadde vært fint å vite mer om hva du trenger. Lyst til å <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0EikdLqe_KfxKGBX69ktah-RWHa80BFNXyzVQTuMvaWZeP5XLPugFbJJl1OYWynM7ncG7YZNai?gv=true">ta en digital kaffe</a>?  
 
 ## Tjenester
-* Produktledelse / prosjektledelse
-* Teamledelse
 * Kvantitativ og kvalitativ brukerinnsikt
-* Analyse og rådgivning 
 * Kontinuerlig forbedring
+* Innholdsutforming (konsept og innholdstesting)
+* Informasjonarkitektur og navigasjon
 
 ## Domenekunnskap
 De siste årene har jeg jobbet mest med helserelaterte produkter. 
 
 ## Prosjekter
+**Skyra (2024)**  
+Rådgiver for <a href="https://skyra.no">Skyra: app for brukerinnsikt og toppoppgaver</a>
+
 **Helseplattformen (2024)**  
 Ledelse og koordinering av flere team på psykisk helse og rus-området
 
@@ -41,7 +37,7 @@ Prosjektledelse av empet.no (implementering av Sanity og nytt design)
 Teamleder, Optimizely DXP
 
 **Felles nettløsning for spesialisthelsetjenesten (2020 - 2023 )**  
-Produktansvarlig
+Produktansvarlig, inkludert ansvar for brukerinnsikt
 
 **Klassekampen (2019 - 2022)**   
 Analyserigg for bruk og konvertering
@@ -50,7 +46,7 @@ Analyserigg for bruk og konvertering
 Løsningsarkitektur for en norsk kunnskapsplattform for dyrehelse 
 
 **Felles nettløsning for spesialisthelsetjenesten (2019 - 2020)**  
-Funksjonelt ansvarlig
+Funksjonelt ansvarlig, herunder brukerinnsikt
 
 **Lausanne 2020: OL for ungdom (2019)**  
 Interaksjonsdesigner
@@ -143,9 +139,8 @@ Foundation + Practitioner
 Blockchain ID: 815683  
 
 
-
 ## Ferdigheter
-* tilegne seg mye informasjon på kort tid og trekke ut hovedpunkter
-* planlegge, konseptualisere og detaljere
-* koordinere og kommunisere
+* bli raskt kjent organisasjoner og situasjoner
+* koble analyse med kreativitet 
+* konseptualisere og detaljere
 * gjennomføre og levere
